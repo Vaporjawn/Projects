@@ -7,6 +7,9 @@ A fully functioning graphing calculator made out of JavaScript
 # [JavaScript Calculator](https://github.com/Vaporjawn/Javascript-Calculator)
 A Calculator made out of JavaScript and ES6
 
+# [Youtube to Mp3](https://github.com/Vaporjawn/Youtube-to-MP3)
+⚡️Electron application to convert and download YouTube videos as MP3s
+
 # [ShortURL](https://github.com/Vaporjawn/ShortURL)
 ShortURL is, as the name suggests, a URL shortener that is comprised of javscript along with modules and views
 
@@ -75,3 +78,5 @@ Blocks an unwanted topic from being seen in your web browser
 
 # [Websites](https://github.com/Vaporjawn/websites)
 Websites that i coded myself
+
+
