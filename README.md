@@ -42,6 +42,9 @@ Project Clippi is an automation framework for Super Smash Bros. Melee. Detect an
 # [Retro Catch the Block](https://github.com/Vaporjawn/Retro-Catch-the-Block)
 A retro style version of Catch the Block made with HTML and Javascript
 
+# [RGB Calculator](https://github.com/Vaporjawn/RGB-Calculator)
+Calculates the RGB combination with a UI that shows you the resulting color
+
 # [Screen Recorder](https://github.com/Vaporjawn/Screen-Recorder)
 A screenshot and screen recording desktop application made with ElectronJS
 
