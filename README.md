@@ -27,6 +27,9 @@ A maze generator made out of JavaScript
 # [Mock Store](https://github.com/Vaporjawn/Mock-Store)
 A webapp UI skeleton for a software store
 
+# [Password Generator](https://github.com/Vaporjawn/Password-Generator)
+A Creates random passwords based on parameters set by you
+
 # [Prime Number Finder](https://github.com/Vaporjawn/Prime-Number-Finder)
 A java program that finds prime numbers
 
