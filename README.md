@@ -1,8 +1,6 @@
 # Projects
 ### by [Victor Williams](https://vaporjawn.github.io)
 
---
-
 # [C Sharp Calculator](https://github.com/Vaporjawn/C-Sharp-Calculator)
 A simple calculator made in C#
 
