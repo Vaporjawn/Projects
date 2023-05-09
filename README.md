@@ -29,7 +29,7 @@ A webapp UI skeleton for a software store
 A Creates random passwords based on parameters set by you
 
 # [Prime Number Finder](https://github.com/Vaporjawn/Prime-Number-Finder)
-A java program that finds prime numbers
+A Rust program that finds all prime numbers up to a given limit using the Sieve of Eratosthenes algorithm
 
 # [project clippi](https://github.com/Vaporjawn/project-clippi)
 Project Clippi is an automation framework for Super Smash Bros. Melee. Detect an event → execute an action.
