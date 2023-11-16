@@ -25,6 +25,9 @@ A maze generator made out of JavaScript
 # [Mock Store](https://github.com/Vaporjawn/Mock-Store)
 A webapp UI skeleton for a software store
 
+# [Order Processing Simulator](https://github.com/Vaporjawn/Order-Processing-Simulator)
+A program that simulates restaurant orders being processed
+
 # [Password Generator](https://github.com/Vaporjawn/Password-Generator)
 A Creates random passwords based on parameters set by you
 
